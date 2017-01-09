@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#op-email-container {
+  color: #333;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 1.2em;
+  margin: 0 auto;
+  width: 100%;
+}
+
+#op-email-header {
+  background-color: #00263e;
+  padding: 1em;
+}
+
+#op-email-header-logo {
+  background: url(../images/logo.png) no-repeat;
+  color: #FFF;
+  display: inline-block;
+  font-size: 2em;
+  font-weight: 400;
+  height: 60px;
+  line-height: 60px;
+  padding-left: 75px;
+  text-decoration: none;
+}
+
+#op-email-content {
+  background-color: #FFF;
+  padding: 1em;
+  text-align: justify;
+
+  p {
+    margin-bottom: 1em;
+  }
+}
+
+#op-email-footer {
+  background-color: #f3f3f3;
+  color: #CCC;
+  font-size: 0.9em;
+  padding: 2em 0;
+  text-align: center;
+
+  a {
+    color: #CCC;
+    text-decoration: none;
+  }
+
+  p {
+    margin-bottom: 1em;
+  }
+
+  .op-email-footer-options {
+    font-size: 0.8em;
+  }
+}

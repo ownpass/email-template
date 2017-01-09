@@ -1,0 +1,17 @@
+{
+  "name": "ownpass-email-template",
+  "description": "The e-mail template used to send e-mails for OwnPass.",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-inline-css": "^0.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ownpass/email-template"
+  }
+}
